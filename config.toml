@@ -28,6 +28,7 @@ paginate = 5
     minuteReadingTime = "min read"
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
+    lastModDisplay = "Modified:"
 
     [languages.en.params.logo]
       logoText = "blog.ajb.app"
