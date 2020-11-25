@@ -9,20 +9,20 @@ paginate = 5
   # "light" or "dark"
   defaultTheme = "dark"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 5
   # Enable to show reading time in minutes for posts
-  showReadingTime = false
+  showReadingTime = true
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "blog.ajb.app"
+    subtitle = ""
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
+    menuMore = "Show More"
     writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
+    readMore = "Read More"
+    readOtherPosts = "other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
     minuteReadingTime = "min read"
@@ -30,7 +30,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "blog.ajb.app"
       logoHomeLink = "/"
     # or
     #
@@ -43,6 +43,14 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
+        identifier = "/archive"
+        name = "Archive"
+        url = "/archive"
+      [[languages.en.menu.main]]
         identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        name = "Portfolio"
+        url = "https://ajb.app"
+      [[languages.en.menu.main]]
+        identifier = "notes"
+        name = "Notes"
+        url = "https://notes.ajb.app"
