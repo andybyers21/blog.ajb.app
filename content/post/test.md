@@ -2,7 +2,7 @@
 title = "Test Post"
 date = "2020-11-25"
 author = "Andy Byers"
-cover = "img/hello.jpg"
+cover = "img/linux.png"
 description = "This post is a test to test posts"
 +++
 
