@@ -1,0 +1,8 @@
+body.dark-theme {
+  --background: #292a2d;
+  --background-secondary: #3b3d42;
+  --header: #252627;
+  --color: #f0f0f0;
+  --color-secondary: #a9a9b3;
+  --border-color: #4a4b50;
+}

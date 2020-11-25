@@ -17,15 +17,15 @@ body.dark-theme {
   --background: #292a2d;
   --background-secondary: #3b3d42;
   --header: #252627;
-  --color: #a9a9b3;
-  --color-secondary: #73747b;
+  --color: #f0f0f0;
+  --color-secondary: #a9a9b3;
   --border-color: #4a4b50;
 }
 
 @custom-media --phone (width < 684px);
 @custom-media --tablet (width < 900px);
 
-@define-mixin greater-icon $stroke-width: 3px, $width: .95rem, $height: 100% {
+@define-mixin greater-icon $stroke-width: 3px, $width: 0.95rem, $height: 100% {
   .greater-icon {
     width: $width;
     height: $height;
@@ -40,5 +40,5 @@ body.dark-theme {
 /* HOW TO USE */
 
 /*@media (--phone) {*/
-  /*margin-top: 0;*/
+/*margin-top: 0;*/
 /*}*/

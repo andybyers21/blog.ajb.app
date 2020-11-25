@@ -4,7 +4,7 @@ title = "About"
 
 # Hi I'm Andy Byers
 
-I’m a software developer from the UK with goals around building knowledge management for the web. You can view my portfolio at [ajb.app](https://ajb.app).
+I’m a software developer from the UK. You can view my portfolio at [ajb.app](https://ajb.app).
 
 - [Notes](https://notes.ajb.app)
 - [Github](https://github.com/andybyers21)
