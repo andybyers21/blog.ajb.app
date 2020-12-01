@@ -5,14 +5,12 @@ author = "Andy Byers"
 description = "Your business cannot function and grow without good people. The better you curate your connections and support network then the easier it is to ask for help when you need it"
 +++
 
-# Creating a Contact Management Strategy For Growth
-
 A successful business is made up of two key elements:
 
 - Good People.
 - A product that customers want to buy.
 
-Good People is number one on that list for a reason. Your business cannot function and grow without good people _and by business we mean any endevour... expand_. And that doesn't just mean your employees either. The better you curate your connections and support network then the easier it is to ask for help when you need it. More importantly, you'll know who to call when the time comes. Even as a solo entrepreneur, you still need a support network. Even if it starts with an encouraging wife, a guy you know who knows a bit about IT and some people sharing good advice on Twitter, you have the foundations of a good network.
+Good People is number one on that list for a reason. Your business cannot function and grow without good people _and by business we mean any endeavor... expand_. And that doesn't just mean your employees either. The better you curate your connections and support network then the easier it is to ask for help when you need it. More importantly, you'll know who to call when the time comes. Even as a solo entrepreneur, you still need a support network. Even if it starts with an encouraging wife, a guy you know who knows a bit about IT and some people sharing good advice on Twitter, you have the foundations of a good network.
 
 In any competitive environment the person who has the wider, more global perspective will inevitably prevail. Without guidance, you'll waste valuable years trying to gain knowledge and perspective that your connections can give you. Through person to person relationships you'll absorb new ways of thinking and applying problem-solving skills. Personal interactions are the most efficient and productive form of learning.
 
