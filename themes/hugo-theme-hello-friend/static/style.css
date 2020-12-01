@@ -6,3 +6,8 @@ body.dark-theme {
   --color-secondary: #a9a9b3;
   --border-color: #4a4b50;
 }
+
+.icon-links {
+  font size: 16px;
+  text-decoration: none;
+}
