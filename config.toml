@@ -54,4 +54,4 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "notes"
         name = "Notes"
-        url = "https://notes.ajb.app"
+        url = "/projects"
