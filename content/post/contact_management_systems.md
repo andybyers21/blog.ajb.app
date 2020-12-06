@@ -1,7 +1,6 @@
 +++
 title = "Creating a Contact Management Strategy For Growth"
 date = "2020-05-11"
-author = "Andy Byers"
 description = "Your business cannot function and grow without good people. The better you curate your connections and support network then the easier it is to ask for help when you need it"
 +++
 

@@ -1,7 +1,6 @@
 +++
 title = "Dune Reading Order"
 date = "2020-11-03"
-author = "Andy Byers"
 description = "There is a lot of debate about the Dune Universe reading order online so I have done my best to group the books into their various chronological chunks."
 +++
 

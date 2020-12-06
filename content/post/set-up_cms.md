@@ -1,7 +1,6 @@
 +++
 title = "Set up your CMS"
 date = "2020-05-29"
-author = "Andy Byers"
 description = "Set-up your Contact management system. When do you consider a contact a lead? How do you differentiate between a customer and an evangelist? Identify the key characteristics that you look for and group them. This will help you frame the contexts of your interactions."
 +++
 

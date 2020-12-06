@@ -1,7 +1,6 @@
 +++
 title = "5 Ways to Work Smarter - Not Harder"
 date = "2020-04-21"
-author = "Andy Byers"
 description = "We spend a lot of time changing your habits around how you work (and play) and because these habits are so major, I want to give you a few tips. These are five of the best habits to master if you haven’t already, some of the most common habits of successful people."
 +++
 
