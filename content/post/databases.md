@@ -2,6 +2,7 @@
 title = "SQL vs NoSQL, Relational Database Management Systems"
 date = "2020-12-01"
 description = "Exploring the differences between SQL and NoSQL databases and discovering the technology and use cases of each."
+hideReadMore = "true"
 +++
 
 # SQL vs NoSQL

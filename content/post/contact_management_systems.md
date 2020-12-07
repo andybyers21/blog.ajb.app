@@ -2,6 +2,7 @@
 title = "Creating a Contact Management Strategy For Growth"
 date = "2020-05-11"
 description = "Your business cannot function and grow without good people. The better you curate your connections and support network then the easier it is to ask for help when you need it"
+hideReadMore = "true"
 +++
 
 A successful business is made up of two key elements:

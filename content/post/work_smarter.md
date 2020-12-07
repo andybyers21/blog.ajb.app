@@ -2,6 +2,7 @@
 title = "5 Ways to Work Smarter - Not Harder"
 date = "2020-04-21"
 description = "We spend a lot of time changing your habits around how you work (and play) and because these habits are so major, I want to give you a few tips. These are five of the best habits to master if you haven’t already, some of the most common habits of successful people."
+hideReadMore = "true"
 +++
 
 We spend a lot of time changing your habits around how you work (and play) and because these habits are so major, I want to give you a few tips. These are five of the best habits to master if you haven’t already, some of the most common habits of successful people. It’s by no means an exhaustive list but might point you in the right direction. Full disclosure though, what works for me might not work for you, so remember, Test > Log > Improve > Execute.

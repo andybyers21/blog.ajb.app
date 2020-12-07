@@ -3,6 +3,7 @@ title = "Ideas For Startups"
 date = "2020-03-20"
 lastMod = "2020-11-25"
 description = "The definition of “startup” is broad and unclear. Just because your a startup doesn't necessarily mean you work in the tech industry. But the moniker is usually attached to them. The word conjures up images of young twenty-somethings hacking away at MacBooks and eating dried noodles. But the reality is slightly different."
+hideReadMore = "true"
 +++
 
 The definition of “startup” is broad and unclear. Just because your a startup doesn't necessarily mean you work in the tech industry. But the moniker is usually attached to them. The word conjures up images of young twenty-somethings hacking away at MacBooks and eating dried noodles. But the reality is slightly different.
