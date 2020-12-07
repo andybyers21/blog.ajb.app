@@ -1,5 +1,6 @@
 +++
 title = "Projects"
+url = "/projects"
 +++
 
 ## notes.ajb.app

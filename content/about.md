@@ -1,5 +1,6 @@
 +++
 title = "About"
+url = "/about"
 +++
 
 # Hi I'm Andy Byers
