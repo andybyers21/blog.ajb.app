@@ -7,7 +7,7 @@ url = "/projects"
 
 {{<image src="/img/project-images/notesapp.png" alt="notes.ajb.app" position="center" style="border-radius: 8px;">}}
 
-{{ imgproc "/img/project-images/notesapp.png" Resize "0.5x" center }}
+{{ imgproc "/img/project-images/notesapp.png" Resize "0.2x" center }}
 
 [View Site](https://notes.ajb.app) | [View Source Code](https://github.com/andybyers21/notes.ajb.app)
 
