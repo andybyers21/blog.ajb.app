@@ -39,23 +39,27 @@ paginate = 9999
     # alt = "Your example logo alt text"
 
     [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "home"
-        name = "Home"
-        url = "/"
+      # [[languages.en.menu.main]]
+        # identifier = "/archive"
+        # name = "Archive"
+        # url = "/archive"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
-#      [[languages.en.menu.main]]
-#        identifier = "/archive"
-#        name = "Archive"
-#        url = "/archive"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Projects"
-        url = "/projects"
+        identifier = "blog"
+        name = "Blog"
+        url = "/#"
+      [[languages.en.menu.main]]
+        identifier = "cv"
+        name = "My CV"
+        url = "/#"
       [[languages.en.menu.main]]
         identifier = "notes"
         name = "Notes"
         url = "https://notes.ajb.app"
+      [[languages.en.menu.main]]
+        identifier = "projetcs"
+        name = "Projects"
+        url = "/projects"
