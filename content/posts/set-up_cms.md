@@ -1,13 +1,13 @@
 +++
-title = "Set up your CMS"
+title = "Set up your Contact Management System"
 date = "2020-05-29"
 description = "Set-up your Contact management system. When do you consider a contact a lead? How do you differentiate between a customer and an evangelist? Identify the key characteristics that you look for and group them. This will help you frame the contexts of your interactions."
 hideReadMore = "true"
 +++
 
-## 1. Define Key Attributes for Your Contacts
+Now you know how to [create a contact management strategy for growth](./contact_management_systems.md) lets look at how to set one up.
 
-**Backlink to** [Creating a Contact Management Strategy For Growth](./contact_management_systems.md)
+## 1. Define Key Attributes for Your Contacts
 
 When do you consider a contact a lead? How do you differentiate between a customer and an evangelist? Identify the key characteristics that you look for and group them. This will help you frame the contexts of your interactions. To start, use the following categories:
 
