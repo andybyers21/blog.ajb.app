@@ -100,9 +100,7 @@ The majority of the above mentioned short stories can be found here.
 
 ---
 
-## New Trilogy
-
-### The Caladan Trilogy
+## The Caladan Trilogy (Unreleased)
 
 Focuses on Duke Leto, Lady Jessica, and Paul, leading directly to the events in Dune after prelude.
 
