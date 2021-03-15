@@ -1,82 +1,29 @@
-baseurl = "/"
-languageCode = "en-us"
-theme = "hugo-theme-hello-friend"
-paginate = 9999
+# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = 'Andy Byers'
+theme = 'hugo-book'
+
+# Book configuration
+disablePathToLower = true
+enableGitInfo = true
+
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+# Params
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "post"
+  BookTheme = 'auto'
+  BookToC = true
+  BookSection = 'posts'
+  BookDateFormat = 'January 2, 2006'
+  BookSearch = true
+  BookComments = true
+  BookServiceWorker = true
 
-  # "light" or "dark"
-  defaultTheme = "dark"
-  
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 9
-  
-  # Enable to show reading time in minutes for posts
-  showReadingTime = true
-
-  # Show table of contents at the top of your posts (defaults to false)
-  # Alternatively, add this param to post front matter for specific posts
-  # toc = true
-
-  # Show full page content in RSS feed items
-  # (default is Description or Summary metadata in the front matter)
-  # rssFullText = true
-
-[languages]
-  [languages.en]
-    title = "blog.ajb.app"
-    subtitle = ""
-    keywords = ""
-    copyright = ""
-    menuMore = "Show More"
-    writtenBy = "Written by"
-    readMore = "Read More"
-    readOtherPosts = "other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
-    lastModDisplay = "Modified:"
-
-  [languages.en.params.logo]
-    logoText = "blog.ajb.app"
-    logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
-    [languages.en.menu]
-      
-      # [[languages.en.menu.main]]
-        # identifier = "/archive"
-        # name = "Archive"
-        # url = "/archive"
-      
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      
-      [[languages.en.menu.main]]
-        identifier = "blog"
-        name = "Blog"
-        url = "/#"
-      
-      [[languages.en.menu.main]]
-        identifier = "cv"
-        name = "My CV"
-        url = "/#"
-      
-      [[languages.en.menu.main]]
-        identifier = "notes"
-        name = "Notes"
-        url = "https://notes.ajb.app"
-      
-      [[languages.en.menu.main]]
-        identifier = "projetcs"
-        name = "Projects"
-        url = "/projects"
