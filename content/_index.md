@@ -8,12 +8,14 @@ url = "/about"
 I’m a software developer from the UK and founder of
 [Maykind.com](https://maykind.com).
 
-## Links
+#### Links:
 
-You can view my portfolio at [ajb.app](https://ajb.app).
-
+- [Portfolio](https://ajb.app)
 - [Notes](https://notes.ajb.app)
-- [Github](https://github.com/andybyers21)
+- [GitHub](https://github.com/andybyers21)
+
+#### Contact Me:
+
 - [Twitter](https://twitter.com/andybyers21)
 - [Email](mailto:a@ajb.app)
 
