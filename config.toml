@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = "http://example.org/"
+baseURL = "https://blog.ajb.app"
 languageCode = "en-gb"
 title = 'Andy Byers'
 theme = 'hugo-book'
